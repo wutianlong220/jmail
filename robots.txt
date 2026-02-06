@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Crawl-delay: 1
 
 # Sitemap
 Sitemap: https://jmail.best/sitemap.xml
